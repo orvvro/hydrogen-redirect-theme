@@ -21,6 +21,11 @@
         "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
         "disabled": false,
         "settings": {}
+      },
+      "9336381942086953917": {
+        "type": "shopify://apps/customerlabs-1pd-capi-tracking/blocks/header-embed-block/e7b7e586-f2a0-478c-a96a-edb8673644b2",
+        "disabled": false,
+        "settings": {}
       }
     }
   }
